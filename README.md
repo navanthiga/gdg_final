@@ -1,5 +1,4 @@
 
-```md
 # 🐍 VidEdu - AI-Powered Python Learning Platform 🚀  
 
 ## 🌟 Overview  
