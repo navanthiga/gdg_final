@@ -1,0 +1,4 @@
+venv_new/
+# IDE and editor files
+.vscode/
+
