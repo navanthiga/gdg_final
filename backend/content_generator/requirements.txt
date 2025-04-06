@@ -75,8 +75,6 @@ protobuf==5.29.3
 pyarrow==19.0.1
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
-PyAudio==0.2.14
-pycairo==1.27.0
 pydantic==2.10.6
 pydantic_core==2.27.2
 pydeck==0.9.1
