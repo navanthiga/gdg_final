@@ -1,6 +1,3 @@
-Here is the **full README.md** structure that you can directly **copy-paste** into your repository.  
-
----
 
 ```md
 # 🐍 VidEdu - AI-Powered Python Learning Platform 🚀  
